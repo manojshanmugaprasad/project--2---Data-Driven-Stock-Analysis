@@ -14,6 +14,7 @@ Tech Stack:
 4.Data Processing	Pandas, NumPy
 
 Features Implemented:
+
 ✔ Market Overview
 Total number of stocks
 Average stock price
