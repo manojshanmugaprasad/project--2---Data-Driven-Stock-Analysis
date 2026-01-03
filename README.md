@@ -44,5 +44,5 @@ Setup and running Installation & Setup:
 Steps to clone the repo, create a virtual environment, install requirements, and ensure all packages are running and accessible.​
 
 How to Run the Project:
-General python command to run analysis.ipynb, Exact Streamlit commands to run appfinal2.py, followed by a short note analysis, data loading and visualisation is done with different py scripts
+General python command to run analysis.ipynb, Exact Streamlit commands to run stockmarketfinal.py, followed by a short note analysis, data loading and visualisation is done with different py scripts
 
